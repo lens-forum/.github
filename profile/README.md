@@ -47,10 +47,9 @@ While Lens Protocol powers social presence and publishing, it lacks a space for:
 
 ## 📬 Stay connected
 
-- Website: [Coming soon]  
-- Hey: [@LensForum](https://x.com/lensforum)  
-- Forum: [forum.lens.xyz](https://forum.lens.xyz) (example domain)  
-- Contact: lensforum@protonmail.com
+- Website: [[Coming soon](https://lens-forum.vercel.app/)]  
+- Hey: [@lensForum](https://x.com/lensforum)   
+- Contact: 
 
 ---
 
